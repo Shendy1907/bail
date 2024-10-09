@@ -1,5 +1,5 @@
 {
-  "name": "@kiuu/baileys",
+  "name": "@shendy/baileys",
   "version": "6.7.7",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/KyuuRzy/Bail",
+  "homepage": "https://github.com/Shendy1907/bail",
   "repository": {
-    "url": "git@github.com:KyuuRzy/Bail.git"
+    "url": "git@github.com:Shendy1907/bail.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "shendy bjir",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
